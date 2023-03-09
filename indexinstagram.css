@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+section {
+    width: 100%;
+    padding: 169px 0;
+    float: left;
+    background-color: #fafafa;
+}
+.ortalama{
+    margin: 0 auto;
+    width: 75%;
+}
+.sol{
+    width: 50%;
+    float: left;
+}
+.şəkil{
+    width: 100%;
+    padding-right: 20px;
+}
+.şəkil img {
+    width: 420px;
+    float: right;
+}
+.sag {
+    text-align: center;
+    width: 50%;
+    float: right;
+
+}
+.qutu1, .qutu2 {
+    width: 400px;
+    padding: 17px;
+    float: left;
+    background-color: #fff;
+    border:1px solid rgb(219, 219, 219);
+}
+
+.Logo, .inputlar, .giris, .xətlər, .instagram, .unutdum{
+    width: 100%;
+    margin-top: 10px;
+    float: left;
+}
+.Logo img {
+    width: 220px;
+    margin-top: 45px ;
+}
+.inputlar input{
+
+    width: 100%;
+    border-radius: 0%;
+    padding: 10px 10px;
+    border: 1px solid #dbdbdb;
+    font-size: 16px;
+    margin-bottom: 15px;
+    outline-color: #1877f2;
+} 
+
+.giris button{
+    width: 100%;
+    background-color: #1877f2;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 0;
+    font-size: 20px;
+    border: 0;
+    
+}
+
+.xətt1 {
+    
+        width: 44%;
+        height: 1px;
+        background-color: #dbdbdb;
+        margin-top: 8px;
+        float: left;
+}
+.soz {
+    float: left;
+    margin: 0 10px;
+}
+   
+
+
+.qutu2{
+    margin-top: 30px;
+}
+.qutu2 a{
+    color: #1877f2;
+}
+.qutu3 {
+    width: 400px;
+    float: left;
+    
+}
+.sozz {
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+.market-img {
+    width: 50%;
+    float: left;
+    padding: 20px 10px 0;
+}
+.google img{
+    float: right;
+}
+.microsoft img{
+    float: left;
+}
